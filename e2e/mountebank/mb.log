@@ -1,0 +1,19 @@
+{"message":"[mb:2525] mountebank v1.16.0 now taking orders - point your browser to http://localhost:2525 for help","level":"info","timestamp":"2019-09-02T17:44:05.780Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2019-09-02T17:44:05.806Z"}
+{"message":"[http:8081 Conduit stubs] Open for business...","level":"info","timestamp":"2019-09-02T17:44:05.837Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56562 => GET /api/tags","level":"info","timestamp":"2019-09-02T17:45:19.423Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56563 => GET /api/articles?limit=10&offset=0","level":"info","timestamp":"2019-09-02T17:45:19.452Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56661 => GET /api/articles/dummy-1","level":"info","timestamp":"2019-09-02T17:45:42.243Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56725 => GET /api/tags","level":"info","timestamp":"2019-09-02T17:45:57.263Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56728 => GET /api/articles?limit=10&offset=0","level":"info","timestamp":"2019-09-02T17:45:57.282Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56747 => GET /api/tags","level":"info","timestamp":"2019-09-02T17:46:00.833Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56748 => GET /api/articles?limit=10&offset=0","level":"info","timestamp":"2019-09-02T17:46:00.842Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56769 => GET /api/articles/dummy-1","level":"info","timestamp":"2019-09-02T17:46:04.361Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56814 => GET /api/tags","level":"info","timestamp":"2019-09-02T17:46:14.651Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56815 => GET /api/articles?limit=10&offset=0","level":"info","timestamp":"2019-09-02T17:46:14.665Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56826 => GET /api/articles?tag=mountebank&limit=10&offset=0","level":"info","timestamp":"2019-09-02T17:46:16.746Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56885 => GET /api/tags","level":"info","timestamp":"2019-09-02T17:46:28.328Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:56886 => GET /api/articles?limit=10&offset=0","level":"info","timestamp":"2019-09-02T17:46:28.335Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:57326 => GET /api/tags","level":"info","timestamp":"2019-09-02T17:48:14.774Z"}
+{"message":"[http:8081 Conduit stubs] ::ffff:127.0.0.1:57327 => GET /api/articles?limit=10&offset=0","level":"info","timestamp":"2019-09-02T17:48:14.781Z"}
+{"message":"[mb:2525] Adios - see you soon?","level":"info","timestamp":"2019-09-02T17:49:01.796Z"}
